@@ -1,5 +1,7 @@
 # Lebenslauf
 
+![Mein Bild](foto.png)
+
 Jan Kowalski  
 1337 Irgendwo  
 Ein weg 69  
